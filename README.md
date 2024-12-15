@@ -2,7 +2,7 @@
 
 ### Project details
 
-Link to repo: https://github.com/gahssi/WAFfle-Defender
+Link to repo: https://github.com/gahssi/WAFfle-Defender (contact to request access)
 
 Final submission for CMPT 782 R&D Project, developed by:  
 *Alexander Yemane*  
