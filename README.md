@@ -1,6 +1,21 @@
-# RnD_Defense
+# WAFfle Defender
 
-### Analysis layer approach
+### Project details
+
+Final submission for CMPT 782 R&D Project, developed by:  
+*Alexander Yemane*  
+*William Fung*  
+*Jerry Wang*  
+
+Supervised by:  
+*Prof. Mohammad Tayebi*
+
+And in collaboration with:  
+*AI-Driven Cybersecurity research group at SFU*
+
+---
+
+### Instructions
 
 The Kali VM snapshot (waffle_rnd.ova) should contain the following components in `/var/www/html`:
 - DVWA (saved in `dvwa` directory)
